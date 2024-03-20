@@ -211,3 +211,13 @@ main section {
 .download-cv{
     text-align: center;
 }
+/* Footer section */
+footer{
+    display: flex;
+    margin-top: 110px;
+    background: #FFF8F3;
+}
+.footer-column{
+    margin: 130px 200px;
+}
+
